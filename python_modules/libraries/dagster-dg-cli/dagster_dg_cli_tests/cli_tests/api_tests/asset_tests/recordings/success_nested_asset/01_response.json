@@ -1,0 +1,25 @@
+{
+  "assetNodes": [
+    {
+      "assetKey": {
+        "path": [
+          "forecasting",
+          "model_stats_by_month"
+        ]
+      },
+      "description": "Model errors by month",
+      "groupName": "FORECASTING",
+      "id": "data-eng-pipeline.__repository__.[\"forecasting\", \"model_stats_by_month\"]",
+      "kinds": [
+        "scikitlearn",
+        "snowflake"
+      ],
+      "metadataEntries": [
+        {
+          "description": null,
+          "label": "dagster/code_references"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "assetRecordsOrError": {
+    "__typename": "AssetRecordConnection",
+    "assets": [
+      {
+        "id": "[\"ANALYTICS\", \"all_orders\"]",
+        "key": {
+          "path": [
+            "ANALYTICS",
+            "all_orders"
+          ]
+        }
+      },
+      {
+        "id": "[\"ANALYTICS\", \"company_perf\"]",
+        "key": {
+          "path": [
+            "ANALYTICS",
+            "company_perf"
+          ]
+        }
+      },
+      {
+        "id": "[\"ANALYTICS\", \"company_stats\"]",
+        "key": {
+          "path": [
+            "ANALYTICS",
+            "company_stats"
+          ]
+        }
+      },
+      {
+        "id": "[\"ANALYTICS\", \"daily_order_summary\"]",
+        "key": {
+          "path": [
+            "ANALYTICS",
+            "daily_order_summary"
+          ]
+        }
+      },
+      {
+        "id": "[\"ANALYTICS\", \"order_stats\"]",
+        "key": {
+          "path": [
+            "ANALYTICS",
+            "order_stats"
+          ]
+        }
+      },
+      {
+        "id": "[\"ANALYTICS\", \"orders_augmented\"]",
+        "key": {
+          "path": [
+            "ANALYTICS",
+            "orders_augmented"
+          ]
+        }
+      },
+      {
+        "id": "[\"ANALYTICS\", \"orders_cleaned\"]",
+        "key": {
+          "path": [
+            "ANALYTICS",
+            "orders_cleaned"
+          ]
+        }
+      },
+      {
+        "id": "[\"ANALYTICS\", \"sku_stats\"]",
+        "key": {
+          "path": [
+            "ANALYTICS",
+            "sku_stats"
+          ]
+        }
+      },
+      {
+        "id": "[\"ANALYTICS\", \"top_users\"]",
+        "key": {
+          "path": [
+            "ANALYTICS",
+            "top_users"
+          ]
+        }
+      },
+      {
+        "id": "[\"ANALYTICS\", \"users_cleaned\"]",
+        "key": {
+          "path": [
+            "ANALYTICS",
+            "users_cleaned"
+          ]
+        }
+      }
+    ],
+    "cursor": "[\"ANALYTICS\", \"users_cleaned\"]"
+  }
+}

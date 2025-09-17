@@ -1,0 +1,24 @@
+{
+  "assetNodes": [
+    {
+      "assetKey": {
+        "path": [
+          "country_stats"
+        ]
+      },
+      "description": null,
+      "groupName": "default",
+      "id": "basics.__repository__.[\"country_stats\"]",
+      "kinds": [
+        "Kubernetes",
+        "S3"
+      ],
+      "metadataEntries": [
+        {
+          "description": null,
+          "label": "dagster/code_references"
+        }
+      ]
+    }
+  ]
+}

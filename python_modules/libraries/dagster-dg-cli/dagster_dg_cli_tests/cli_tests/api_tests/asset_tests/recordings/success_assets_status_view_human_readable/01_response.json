@@ -1,0 +1,464 @@
+{
+  "assetRecordsOrError": {
+    "__typename": "AssetRecordConnection",
+    "assets": [
+      {
+        "id": "[\"ANALYTICS\", \"all_orders\"]",
+        "key": {
+          "path": [
+            "ANALYTICS",
+            "all_orders"
+          ]
+        }
+      },
+      {
+        "id": "[\"ANALYTICS\", \"company_perf\"]",
+        "key": {
+          "path": [
+            "ANALYTICS",
+            "company_perf"
+          ]
+        }
+      },
+      {
+        "id": "[\"ANALYTICS\", \"company_stats\"]",
+        "key": {
+          "path": [
+            "ANALYTICS",
+            "company_stats"
+          ]
+        }
+      },
+      {
+        "id": "[\"ANALYTICS\", \"daily_order_summary\"]",
+        "key": {
+          "path": [
+            "ANALYTICS",
+            "daily_order_summary"
+          ]
+        }
+      },
+      {
+        "id": "[\"ANALYTICS\", \"order_stats\"]",
+        "key": {
+          "path": [
+            "ANALYTICS",
+            "order_stats"
+          ]
+        }
+      },
+      {
+        "id": "[\"ANALYTICS\", \"orders_augmented\"]",
+        "key": {
+          "path": [
+            "ANALYTICS",
+            "orders_augmented"
+          ]
+        }
+      },
+      {
+        "id": "[\"ANALYTICS\", \"orders_cleaned\"]",
+        "key": {
+          "path": [
+            "ANALYTICS",
+            "orders_cleaned"
+          ]
+        }
+      },
+      {
+        "id": "[\"ANALYTICS\", \"sku_stats\"]",
+        "key": {
+          "path": [
+            "ANALYTICS",
+            "sku_stats"
+          ]
+        }
+      },
+      {
+        "id": "[\"ANALYTICS\", \"top_users\"]",
+        "key": {
+          "path": [
+            "ANALYTICS",
+            "top_users"
+          ]
+        }
+      },
+      {
+        "id": "[\"ANALYTICS\", \"users_cleaned\"]",
+        "key": {
+          "path": [
+            "ANALYTICS",
+            "users_cleaned"
+          ]
+        }
+      },
+      {
+        "id": "[\"ANALYTICS\", \"weekly_order_summary\"]",
+        "key": {
+          "path": [
+            "ANALYTICS",
+            "weekly_order_summary"
+          ]
+        }
+      },
+      {
+        "id": "[\"CLEANED\", \"locations_cleaned\"]",
+        "key": {
+          "path": [
+            "CLEANED",
+            "locations_cleaned"
+          ]
+        }
+      },
+      {
+        "id": "[\"CLEANED\", \"orders_cleaned\"]",
+        "key": {
+          "path": [
+            "CLEANED",
+            "orders_cleaned"
+          ]
+        }
+      },
+      {
+        "id": "[\"CLEANED\", \"users_cleaned\"]",
+        "key": {
+          "path": [
+            "CLEANED",
+            "users_cleaned"
+          ]
+        }
+      },
+      {
+        "id": "[\"FORECASTING\", \"all_orders\"]",
+        "key": {
+          "path": [
+            "FORECASTING",
+            "all_orders"
+          ]
+        }
+      },
+      {
+        "id": "[\"FORECASTING\", \"big_orders\"]",
+        "key": {
+          "path": [
+            "FORECASTING",
+            "big_orders"
+          ]
+        }
+      },
+      {
+        "id": "[\"FORECASTING\", \"predicted_orders\"]",
+        "key": {
+          "path": [
+            "FORECASTING",
+            "predicted_orders"
+          ]
+        }
+      },
+      {
+        "id": "[\"MARKETING\", \"avg_order\"]",
+        "key": {
+          "path": [
+            "MARKETING",
+            "avg_order"
+          ]
+        }
+      },
+      {
+        "id": "[\"MARKETING\", \"avg_orders\"]",
+        "key": {
+          "path": [
+            "MARKETING",
+            "avg_orders"
+          ]
+        }
+      },
+      {
+        "id": "[\"MARKETING\", \"key_product_deepdive\"]",
+        "key": {
+          "path": [
+            "MARKETING",
+            "key_product_deepdive"
+          ]
+        }
+      },
+      {
+        "id": "[\"MARKETING\", \"max_order\"]",
+        "key": {
+          "path": [
+            "MARKETING",
+            "max_order"
+          ]
+        }
+      },
+      {
+        "id": "[\"MARKETING\", \"min_order\"]",
+        "key": {
+          "path": [
+            "MARKETING",
+            "min_order"
+          ]
+        }
+      },
+      {
+        "id": "[\"RAW_DATA\", \"location\"]",
+        "key": {
+          "path": [
+            "RAW_DATA",
+            "location"
+          ]
+        }
+      },
+      {
+        "id": "[\"RAW_DATA\", \"locations\"]",
+        "key": {
+          "path": [
+            "RAW_DATA",
+            "locations"
+          ]
+        }
+      },
+      {
+        "id": "[\"RAW_DATA\", \"orders\"]",
+        "key": {
+          "path": [
+            "RAW_DATA",
+            "orders"
+          ]
+        }
+      },
+      {
+        "id": "[\"RAW_DATA\", \"users\"]",
+        "key": {
+          "path": [
+            "RAW_DATA",
+            "users"
+          ]
+        }
+      },
+      {
+        "id": "[\"analytics\", \"all_orders\"]",
+        "key": {
+          "path": [
+            "analytics",
+            "all_orders"
+          ]
+        }
+      },
+      {
+        "id": "[\"analytics\", \"company_perf\"]",
+        "key": {
+          "path": [
+            "analytics",
+            "company_perf"
+          ]
+        }
+      },
+      {
+        "id": "[\"analytics\", \"company_stats\"]",
+        "key": {
+          "path": [
+            "analytics",
+            "company_stats"
+          ]
+        }
+      },
+      {
+        "id": "[\"analytics\", \"daily_order_summary\"]",
+        "key": {
+          "path": [
+            "analytics",
+            "daily_order_summary"
+          ]
+        }
+      },
+      {
+        "id": "[\"analytics\", \"orders_augmented\"]",
+        "key": {
+          "path": [
+            "analytics",
+            "orders_augmented"
+          ]
+        }
+      },
+      {
+        "id": "[\"analytics\", \"orders_cleaned\"]",
+        "key": {
+          "path": [
+            "analytics",
+            "orders_cleaned"
+          ]
+        }
+      },
+      {
+        "id": "[\"analytics\", \"sku_stats\"]",
+        "key": {
+          "path": [
+            "analytics",
+            "sku_stats"
+          ]
+        }
+      },
+      {
+        "id": "[\"analytics\", \"top_users\"]",
+        "key": {
+          "path": [
+            "analytics",
+            "top_users"
+          ]
+        }
+      },
+      {
+        "id": "[\"analytics\", \"users_cleaned\"]",
+        "key": {
+          "path": [
+            "analytics",
+            "users_cleaned"
+          ]
+        }
+      },
+      {
+        "id": "[\"change_model\"]",
+        "key": {
+          "path": [
+            "change_model"
+          ]
+        }
+      },
+      {
+        "id": "[\"comments\"]",
+        "key": {
+          "path": [
+            "comments"
+          ]
+        }
+      },
+      {
+        "id": "[\"comments_agg\"]",
+        "key": {
+          "path": [
+            "comments_agg"
+          ]
+        }
+      },
+      {
+        "id": "[\"continent_stats\"]",
+        "key": {
+          "path": [
+            "continent_stats"
+          ]
+        }
+      },
+      {
+        "id": "[\"country_stats\"]",
+        "key": {
+          "path": [
+            "country_stats"
+          ]
+        }
+      },
+      {
+        "id": "[\"databricks\", \"economic_indicators\"]",
+        "key": {
+          "path": [
+            "databricks",
+            "economic_indicators"
+          ]
+        }
+      },
+      {
+        "id": "[\"databricks\", \"news_sentiment\"]",
+        "key": {
+          "path": [
+            "databricks",
+            "news_sentiment"
+          ]
+        }
+      },
+      {
+        "id": "[\"databricks\", \"revenue\"]",
+        "key": {
+          "path": [
+            "databricks",
+            "revenue"
+          ]
+        }
+      },
+      {
+        "id": "[\"databricks_asset\"]",
+        "key": {
+          "path": [
+            "databricks_asset"
+          ]
+        }
+      },
+      {
+        "id": "[\"dbt\", \"model\", \"salesforce\", \"salesforce__manager_performance\"]",
+        "key": {
+          "path": [
+            "dbt",
+            "model",
+            "salesforce",
+            "salesforce__manager_performance"
+          ]
+        }
+      },
+      {
+        "id": "[\"dbt\", \"model\", \"salesforce\", \"salesforce__opportunity_enhanced\"]",
+        "key": {
+          "path": [
+            "dbt",
+            "model",
+            "salesforce",
+            "salesforce__opportunity_enhanced"
+          ]
+        }
+      },
+      {
+        "id": "[\"dbt\", \"model\", \"salesforce\", \"salesforce__owner_performance\"]",
+        "key": {
+          "path": [
+            "dbt",
+            "model",
+            "salesforce",
+            "salesforce__owner_performance"
+          ]
+        }
+      },
+      {
+        "id": "[\"dbt\", \"model\", \"salesforce\", \"salesforce__sales_snapshot\"]",
+        "key": {
+          "path": [
+            "dbt",
+            "model",
+            "salesforce",
+            "salesforce__sales_snapshot"
+          ]
+        }
+      },
+      {
+        "id": "[\"dbt\", \"model\", \"salesforce_source\", \"stg_salesforce__account\"]",
+        "key": {
+          "path": [
+            "dbt",
+            "model",
+            "salesforce_source",
+            "stg_salesforce__account"
+          ]
+        }
+      },
+      {
+        "id": "[\"dbt\", \"model\", \"salesforce_source\", \"stg_salesforce__account_tmp\"]",
+        "key": {
+          "path": [
+            "dbt",
+            "model",
+            "salesforce_source",
+            "stg_salesforce__account_tmp"
+          ]
+        }
+      }
+    ],
+    "cursor": "[\"dbt\", \"model\", \"salesforce_source\", \"stg_salesforce__account_tmp\"]"
+  }
+}
